@@ -2,7 +2,7 @@
 
 ### 安装
 
-* 电脑上安装 `Universal Adb Driver`
+* 在电脑上安装 [Universal Adb Driver](http://universaladbdriver.com/) 或者其它的ADB工具
 
 * 连接手机：手机需要打开`开发者模式`
     * USB连接
